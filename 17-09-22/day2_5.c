@@ -4,7 +4,10 @@ int main()
 
 {
 
-int num,x,y,direction,coordinate;
+int num,x,y,coordinate;
+char direction;
+
+
 
 printf("enter total travel distance:");
 scanf("%d",num);
@@ -34,13 +37,9 @@ scanf("%d",y);
 }
 
 
-switch(coordinate) 
-{
-    case1:
-    printf("coordinate=N")
-
-
 }
+
+
 
 
 
